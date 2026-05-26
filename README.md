@@ -3,6 +3,7 @@
 Machine learning engineer focused on real-time inference, neural signal processing, TinyML, and brain-computer interface systems.
 
 ## Current Work
+[Machine Learning @ Auli.Tech](https://github.com/aulitech)
 - Embedded gesture-recognition systems
 - On-device TinyML inference
 - Neural/time-series signal analysis

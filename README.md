@@ -17,8 +17,6 @@ Machine learning engineer focused on real-time inference, neural signal processi
 ## Selected Projects
 - EEG emotional classification BCI
 - P300 neural signal lie detector
-- Embedded IMU gesture recognition system
-- Neural microscopy GAN refocusing
 
 ## Technologies
 Python • C++ • TensorFlow • PyTorch • Firebase • Signal Processing • Embedded Systems • Javascript

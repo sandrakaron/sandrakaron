@@ -1,16 +1,26 @@
-## Hi there 👋
+## Sandra Karon
 
-<!--
-**sandrakaron/sandrakaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine learning engineer focused on real-time inference, neural signal processing, TinyML, and brain-computer interface systems.
 
-Here are some ideas to get you started:
+## Current Work
+- Embedded gesture-recognition systems
+- On-device TinyML inference
+- Neural/time-series signal analysis
+- ML infrastructure and data pipelines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Background
+- B.S. Physics — UCLA
+- Neurophysics research
+- BCI education and mentorship through UCLA CRUX Neurotech
+
+## Selected Projects
+- EEG emotional classification BCI
+- P300 neural signal lie detector
+- Embedded IMU gesture recognition system
+- Neural microscopy GAN refocusing
+
+## Technologies
+Python • C++ • TensorFlow • PyTorch • Firebase • Signal Processing • Embedded Systems • Zephyr RTOS
+
+## Interests
+Brain-computer interfaces, neural decoding, real-time systems, human-computer interaction, applied ML

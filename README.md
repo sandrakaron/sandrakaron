@@ -20,7 +20,7 @@ Machine learning engineer focused on real-time inference, neural signal processi
 - Neural microscopy GAN refocusing
 
 ## Technologies
-Python • C++ • TensorFlow • PyTorch • Firebase • Signal Processing • Embedded Systems • Zephyr RTOS
+Python • C++ • TensorFlow • PyTorch • Firebase • Signal Processing • Embedded Systems • Javascript
 
 ## Interests
-Brain-computer interfaces, neural decoding, real-time systems, human-computer interaction, applied ML
+Brain-computer interfaces, neural decoding, real-time systems, applied ML, computer vision

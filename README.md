@@ -16,7 +16,7 @@ Machine learning engineer focused on real-time inference, neural signal processi
 
 ## Selected Projects
 - EEG emotional classification BCI - 1st place, 2024 CA Neurotech Conference
-- P300 neural signal lie detector - Division 1st place, [2023 NatHacks] (https://devpost.com/software/clue-the-bci-expansion)
+- P300 neural signal lie detector - Division 1st place, [2023 NatHacks](https://devpost.com/software/clue-the-bci-expansion)
   
 
 ## Technologies
